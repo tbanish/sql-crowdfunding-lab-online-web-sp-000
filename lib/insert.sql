@@ -1,5 +1,6 @@
 /*users*/
-INSERT INTO users (name, age) VALUES ("Tom", 33), 
+INSERT INTO users (name, age) VALUES 
+("Tom", 33), 
 ("Matt", 35), 
 ("Chris", 30), 
 ("Nicole", 33),
