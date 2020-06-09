@@ -1,5 +1,24 @@
 /*users*/
-
+INSERT INTO users (name, age) VALUES ("Tom", 33), 
+("Matt", 35), 
+("Chris", 30), 
+("Nicole", 33),
+("James", 28),
+("Jill", 50),
+("Jay", 34),
+("Bruna", 36),
+("Rich", 33),
+("Kristin", 2),
+("Preet", 37),
+("Chuck", 26),
+("Tim", 30),
+("Jodie", 40),
+("Denise", 47),
+("Mike", 25),
+("Todd", 52),
+("Brandon", 60),
+("Kevin", 32),
+("Mark", 31);
 
 /*projects*/
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 100, 6/1/20, 7/1/20);
