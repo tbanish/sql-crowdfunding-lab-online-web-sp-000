@@ -22,7 +22,15 @@ INSERT INTO users (name, age) VALUES ("Mark", 31);
 
 # projects
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
-
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
 
 
 
