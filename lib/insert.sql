@@ -1,4 +1,4 @@
-/* users */
+/*users*/
 INSERT INTO users (name, age) VALUES ("Tom", 33);
 INSERT INTO users (name, age) VALUES ("Matt", 35);
 INSERT INTO users (name, age) VALUES ("Chris", 30);
@@ -32,7 +32,8 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Owl", "I", 900, 10/1/21, 11/1/21);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Monkey", "J", 1000, 12/1/21, 1/1/22);
 
-INSERT INTO pledges ()
+/*pledges*/
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 1);
 
 
 
