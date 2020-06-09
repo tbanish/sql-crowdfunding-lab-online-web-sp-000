@@ -32,5 +32,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Owl", "I", 900, 10/1/21, 11/1/21);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Monkey", "J", 1000, 12/1/21, 1/1/22);
 
+INSERT INTO pledges ()
+
 
 
