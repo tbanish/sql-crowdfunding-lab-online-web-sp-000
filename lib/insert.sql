@@ -1,4 +1,4 @@
-# users
+
 INSERT INTO users (name, age) VALUES ("Tom", 33);
 INSERT INTO users (name, age) VALUES ("Matt", 35);
 INSERT INTO users (name, age) VALUES ("Chris", 30);
@@ -20,7 +20,7 @@ INSERT INTO users (name, age) VALUES ("Brandon", 60);
 INSERT INTO users (name, age) VALUES ("Kevin", 32);
 INSERT INTO users (name, age) VALUES ("Mark", 31);
 
-# projects
+
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "A", 1, 6/1/20, 7/1/20);
